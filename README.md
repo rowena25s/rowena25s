@@ -1,7 +1,7 @@
 <h1 align="center" dir="auto">👋 Hi, I’m an Agile, Passionate and Creative Developer! 👋</h1>
 
 <p align="center">
-  <h3 align="center">Passionate AI web and mobile developer and blockchain engineer with over 10 years of expertise in designing, developing and maintaining high-performance apps.</h3>
+  <h3 align="center">Passionate <h3 style = {{font-family:'bold'}}>AI-powered Full Stack Developer</h3> with over 10 years of expertise in designing, developing and maintaining high-performance apps.</h3>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
